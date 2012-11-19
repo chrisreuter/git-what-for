@@ -1,5 +1,5 @@
 This is my first Textfile I created on my computer in my /git_what_for folder.
 What happens next?
 
-Hi, I'm qualilangues. I got an e-mail form chrisreuter to github.com/chrisreuter/git_what_for
+Hi, I'm qualilangues. I got an e-mail from chrisreuter to github.com/chrisreuter/git_what_for
 Now I can edit repository files online.
