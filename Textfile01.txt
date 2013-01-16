@@ -6,3 +6,5 @@ Now I can edit repository files online.
 
 Hi, I'm chrisreuter. Before I resricted edits to Collaborators only in Admin section.
 (This is an online edit)
+
+Hi, chrisreuter again. Edited online ;-)
