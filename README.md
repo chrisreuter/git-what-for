@@ -1,5 +1,9 @@
 # README.MD
 
-EN: This is the readme file in Markdown format (http://daringfireball.net/projects/markdown/basics)
+EN: 
+
+What is git or github for
+
+This is the readme file in Markdown format (http://daringfireball.net/projects/markdown/basics)
 
 
